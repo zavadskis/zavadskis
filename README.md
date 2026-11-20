@@ -2,6 +2,10 @@
 
 **Commercial, advertising, editorial and portrait photographer** — Riga, Latvia, Europe. Assignments for **Forbes USA**, the Dakar Rally and five Gumball 3000s. Working since 2004 in 50+ countries.
 
+<img src="images/zavadskis.jpg" alt="Andrejs Zavadskis, photographer, holding a camera while riding a jetboard across the sea in a suit and tie" width="420">
+
+*Andrejs Zavadskis behind the camera on a jetboard, dressed in a suit and tie as water sprays around him. The portrait sums up how he works: fast, physical and always ready to take the shot. Photo: Andrejs Zavadskis*
+
 ## Bio, as code
 
 The same class lives in [`photographer.py`](photographer.py).
@@ -92,6 +96,11 @@ The assignment changes. The method does not: arrive early, read the light, and b
 *Andrejs Zavadskis in 2015, a camera raised to his eye — the man behind the camera. He is a European commercial, advertising, editorial and portrait photographer based in Riga, Latvia, and has worked in more than fifty countries for over twenty years. Photo: Andrejs Zavadskis.*
 
 Clients include Forbes USA, Nike, airBaltic, LMT, Rimi, Nordea, Swedbank and Tele2. Whether the job is a magazine cover, an advertising campaign or a commercial portrait, the hard part is the same: a powerful person, almost no time, and one frame that has to hold the headline.
+
+<img src="images/andrejs-zavadskis-leica.jpg" alt="Andrejs Zavadskis photographing with a Leica camera, reflected in a glass window" width="520">
+
+*Andrejs Zavadskis framing a shot with a Leica, his reflection mirrored in a shop window on a city street. A portrait of the photographer as both subject and author. Photo: Andrejs Zavadskis*
+
 
 ![Five Forbes USA daily covers photographed by Andrejs Zavadskis.](https://blog.zavadskis.lv/pic/20261107_2310_forbes_5_daily_cover_kolaza_542aac.jpg)
 
